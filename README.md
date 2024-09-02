@@ -2,10 +2,10 @@
 <h3 align="center">wuzzupp</h3>
 
 <div align="center">
-  <p>my old github account got hacked</p>
+  <p>i lost access to my old github acc cus i factory reset my pc</p>
 </div>
 <div align="center">
-  <img src="https://discordsvgcreator.pythonanywhere.com/getUserProfile/1272443417200427081?showBanner=false&showID=false" /><br>
+  <img src="https://discordsvgcreator.pythonanywhere.com/getUserProfile/1272443417200427081?showBanner=false&showID=true" /><br>
 </div>
 
 ## GitHub Stats
@@ -21,11 +21,11 @@
 ## Links
 
 </div>
-    <p style="margin: 5px 0; font-size: 16px;"><a href="https://github.com/sodaduhking2" target="_blank">GitHub (official)</a></p>
-    <p style="margin: 5px 0; font-size: 16px;"><a href="https://www.youtube.com/@Soda.V.R" target="_blank">Youtube</a></p>
-    <p style="margin: 5px 0; font-size: 16px;"><a href="https://discord.gg/dZsn8wkfx2" target="_blank">Discord</a></p>
+    <p style="margin: 5px 0; font-size: 16px;"><a href="fbi.bet" target="_blank">DONT CLICK</a></p>
+    <p style="margin: 5px 0; font-size: 16px;"><a href="https://ronnie-jpg.github.io" target="_blank">the only real fuck buddy site</a></p>
+    <p style="margin: 5px 0; font-size: 16px;"><a href="https://discord.gg/meDYAqw2G7" target="_blank">me serber</a></p>
 </div>
 
 <div align="center">
-  <p>I CODE ALL MY OWN SHIT SO IF YOU LIKE IT CONSIDER GIVING IT A STAR</p>
+  <p>https://sodaduhking2.github.io</p>
 </div>
