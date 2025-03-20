@@ -1,4 +1,4 @@
 <center>
 <h1 style="color:orange;">i have kids in my basement</h1>
-<a href="https://sodaduhking2.github.io"> <input type="button" name="fuk u" value="click it click it now or ill fucking uhh idfk uhhh umm ill ummm ill fucking kidnap your grandma and if your grandmas dead then LOL LMFAOOO CRY I FUCKED YOUR DOG AND YOUR GRANDMAS DEAD XDDDDD"</input></a>
+<a href="https://sodaduhking2.github.io"> <input type="button" name="fuk u" value="click it click it now or ill fucking uhh idfk uhhh umm ill ummm ill fucking kidnap your grandma and if your grandmas dead then LOL LMFAOOO CRY I FUCKED YOUR DOG AND YOUR GRANDMAS DEAD XDDDDD"'</input></a>
 </center>
