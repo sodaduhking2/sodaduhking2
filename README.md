@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgflip.com/74kzm0.jpg" alt="badboy" width="200">
+  <img src="https://media.pinatafarm.com/protected/B183D0EF-49B8-47BF-A523-E72FD0CFFAAC/Badass-Skeleton.2.meme.webp" alt="badboy" width="200">
   <p>
     <i>i ate your grandma<br>
     i kidnapped 9999 kids<br>
